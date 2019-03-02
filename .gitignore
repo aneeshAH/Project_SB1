@@ -1,0 +1,7 @@
+# Folders to ignore
+bin/
+build/
+
+# Hidden Files
+.*
+!/.gitignore
